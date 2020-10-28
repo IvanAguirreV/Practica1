@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Practica1/static/css/main.c22f9c82.chunk.css",
+    "main.js": "/Practica1/static/js/main.40339656.chunk.js",
+    "main.js.map": "/Practica1/static/js/main.40339656.chunk.js.map",
+    "runtime-main.js": "/Practica1/static/js/runtime-main.d386a4f6.js",
+    "runtime-main.js.map": "/Practica1/static/js/runtime-main.d386a4f6.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Practica1/static/css/2.2a86faee.chunk.css",
+    "static/js/2.48adb87e.chunk.js": "/Practica1/static/js/2.48adb87e.chunk.js",
+    "static/js/2.48adb87e.chunk.js.map": "/Practica1/static/js/2.48adb87e.chunk.js.map",
+    "index.html": "/Practica1/index.html",
+    "precache-manifest.0f06120e92d35c2f57967b099e68d178.js": "/Practica1/precache-manifest.0f06120e92d35c2f57967b099e68d178.js",
+    "service-worker.js": "/Practica1/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Practica1/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.c22f9c82.chunk.css.map": "/Practica1/static/css/main.c22f9c82.chunk.css.map",
+    "static/js/2.48adb87e.chunk.js.LICENSE.txt": "/Practica1/static/js/2.48adb87e.chunk.js.LICENSE.txt",
+    "static/media/LogoTecNM.jpg": "/Practica1/static/media/LogoTecNM.96aff77c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d386a4f6.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.48adb87e.chunk.js",
+    "static/css/main.c22f9c82.chunk.css",
+    "static/js/main.40339656.chunk.js"
+  ]
+}
